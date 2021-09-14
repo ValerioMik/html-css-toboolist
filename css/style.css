@@ -40,6 +40,7 @@ background-color: rgb(247, 247, 247);
     .contenitoregenerico{
         width: 59%;
         margin: 30px auto;
+        background-color: white;
     }
     .contenitorelista{
         background-color: rgb(255, 255, 255);
@@ -132,6 +133,17 @@ background-color: rgb(247, 247, 247);
         color: white;
     }
 
+    .fuxia{
+
+        background-color: rgb(201, 17, 201);
+        color: white;
     }
+
+    .verdechiaro{
+
+        background-color: rgb(165, 235, 118);
+        color: white;
+    }
+  
 
     
