@@ -32,6 +32,10 @@
     }
 
 /* corpo parte principale */
+main{
+background-color: rgb(247, 247, 247);
+
+}
 
     .contenitoregenerico{
         width: 59%;
@@ -86,3 +90,48 @@
     border: solid;
     border-radius: 60px;
     }
+
+    .x{
+
+        color: rgb(202, 36, 36);
+    }
+
+    .bottoni{
+        background-color: rgb(87, 190, 250);
+        width: 110px;
+        display: inline-block;
+        text-align: center;
+        line-height: 25px;
+        vertical-align: middle;
+        border-radius: 15px;
+        font-size: medium;
+    }
+    .sezione2{
+        margin-bottom: 15px;
+    }
+
+
+    section{
+        margin-bottom: 20px;
+    }
+
+    .verde{
+        background-color: rgb(30, 117, 81);
+        color: white;
+    } 
+
+    .viola{
+
+        background-color: rgb(84, 15, 131);
+        color: white;
+    }
+
+    .arancio{
+
+        background-color: rgb(170, 96, 11);
+        color: white;
+    }
+
+    }
+
+    
