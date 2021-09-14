@@ -33,8 +33,21 @@
 
 /* corpo parte principale */
 
-    .contenitore{
+    div main{
+
         background-color: white;
-        width: 80%;
-        margin: auto;
+        width: 58%;
+        margin: auto; 
+        margin-top: 50px;
+    }
+
+    .azzurro{
+
+        background-color: rgb(5, 111, 172);
+        width: 70px;
+        display: inline-block;
+        text-align: center;
+        line-height: 50px;
+        vertical-align: middle;
+        border-radius: 30%;
     }
