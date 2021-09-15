@@ -9,6 +9,10 @@
    
 /* impostazioni header */
 
+    .header{
+        margin-bottom: 40px;
+    }
+
     .headsection{
 
         background-color: white;
@@ -35,6 +39,7 @@
 /* corpo parte principale */
 main{
 background-color: rgb(247, 247, 247);
+padding: 3px;
 
 }
 
@@ -42,6 +47,8 @@ background-color: rgb(247, 247, 247);
         width: 59%;
         margin: 30px auto;
         background-color: white;
+        padding: 20px;
+        border-radius: 6px;
     }
     .contenitorelista{
         background-color: rgb(255, 255, 255);
